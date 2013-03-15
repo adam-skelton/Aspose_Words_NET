@@ -1,0 +1,13 @@
+<?xml version="1.0" ?> 
+<Example>
+  <Title>Applying a License</Title>
+  <Description>Demonstrates how to apply a temporary or permanent Aspose.Words license in order to remove evaluation restrictions.</Description>
+  <DocLink>
+    <DisplayName>License Aspose.Words</DisplayName>
+    <Url>http://www.aspose.com/docs/display/wordsnet/License+Aspose.Words</Url>
+  </DocLink>
+  <CodePreview>
+      <FileName>Program</FileName>
+      <MemberName>Main</MemberName>
+  </CodePreview>
+</Example>

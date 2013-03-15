@@ -1,0 +1,23 @@
+<?xml version="1.0" ?> 
+<Example>
+  <Title>Join Documents</Title>
+  <Description>Demonstrates how to append one document onto the end of another document by using just one line of code.
+  
+  The document being appended to is called the "destination document" and the document being appended is the "source document".</Description>
+  <DocLink>
+    <DisplayName>Joining and Appending Documents</DisplayName>
+    <Url>http://www.aspose.com/docs/display/wordsnet/Joining+and+Appending+Documents</Url>
+  </DocLink>
+  <Image>Properties/JoinDocuments.png</Image>
+  <CodePreview>
+    <FileName>Program</FileName>
+    <MemberName>Main</MemberName>
+  </CodePreview>
+  <Input>
+    <File path="Data/TestFile.Destination.doc" />
+    <File path="Data/TestFile.Source.doc" />
+  </Input>
+  <Output>
+    <File path="Data/TestFile Out.docx" />
+  </Output>
+</Example>

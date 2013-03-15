@@ -1,0 +1,19 @@
+Temp/
+obj/
+classes/
+generated/
+*.suo
+bin/
+* Out.*
+*.ldb
+_ReSharper*/
+*.iws
+out/
+*.user
+Out/
+BuildLog.txt
+Out*/
+TestFile*.png
+Data/*Out*
+Data/*from DB*
+/QuickStart/BrowserDocumentViewer/CSharp/Data/Aspose.Words.Document.Out.swf
